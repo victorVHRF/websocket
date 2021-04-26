@@ -12,7 +12,7 @@ This websocket works as a support chat with a client and an admin with exchanges
 
 ### 🛠 Tecnologias
 
-The following techonologie were used:
+The following techonologie were used:\
 -[Node.js](https://nodejs.org/en/)
 
 some React commands:
