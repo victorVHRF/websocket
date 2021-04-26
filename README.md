@@ -19,6 +19,6 @@ some React commands:
 
 ### `yarn dev`
 Runs the app in the development mode.\
-Open [http://localhost:3333](http://localhost:3333) to view it in the browser.
-Open [http://localhost:3333/pages/client](http://localhost:3333/pages/client) to view it in the browser the client side.
+Open [http://localhost:3333](http://localhost:3333) to view it in the browser.\
+Open [http://localhost:3333/pages/client](http://localhost:3333/pages/client) to view it in the browser the client side.\
 Open [http://localhost:3333/pages/admin](http://localhost:3333/pages/admin) to view it in the browser the admin side.
