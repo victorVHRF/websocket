@@ -4,7 +4,7 @@
 
 # Next Level Week
 
-Bootcamp performed by rocketseat to take the next level in React development
+Bootcamp performed by rocketseat to take the next level in Node development
 
 In this week, we development a websocket application fully function whitout a beautiful layout. The biggest focus is funtionality.
 
